@@ -9,3 +9,4 @@ echo "Running!"
 ./a.out
 
 echo "\nAlready run!"
+rm a.out
